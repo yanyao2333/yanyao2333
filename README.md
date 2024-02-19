@@ -5,7 +5,7 @@ I am Roitium (or yanyao2333, whatever), a self-learning developer.
 Develop with love.
 
 ---
-### 💻:keyboard: Languages and Tools 
+### 💻 Languages and Tools 
 
 ### Languages
 
