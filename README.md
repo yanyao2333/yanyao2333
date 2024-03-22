@@ -1,6 +1,6 @@
 ### Hi there, I'm Roitium👋
 
-I am Roitium (or yanyao2333, whatever), a self-learning developer.
+I am Roitium (or yanyao2333, whatever), a self taught developer.
 
 Develop with love.
 
