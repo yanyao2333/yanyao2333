@@ -2,17 +2,6 @@
 
 I am Roitium (or yanyao2333, whatever), a self taught developer.
 
-Develop with love.
-
----
-### 💻 Languages and Tools 
-
-### Languages
-
- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
- ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
----
+Coding with ❤
 
 ![yanyao's Github stats](https://readmestats.999857.xyz/api?username=yanyao2333&show_icons=true)
