@@ -1,7 +1,7 @@
-### Hi there, I'm Roitium👋
+### Hi there, I'm Roitium 👋
 
-I am Roitium (or yanyao2333, whatever), a self taught developer.
+I am Roitium (due to some historical reasons, my ID is yanyao2333), a self-taught developer.
 
-Coding with ❤
+![yanyao's Github stats](https://github-readme-stats.vercel.app/api?username=yanyao2333&theme=dark&show_icons=true&count_private=true)
 
-![yanyao's Github stats](https://readmestats.999857.xyz/api?username=yanyao2333&show_icons=true)
+![most lang](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=yanyao2333&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)
